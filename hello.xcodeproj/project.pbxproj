@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04B5172323C5415D00DCB925 /* Juti Jharrke - Hardeep Grewal  Afsana Khan (DJJOhAL.Com).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 04B5172223C5415C00DCB925 /* Juti Jharrke - Hardeep Grewal  Afsana Khan (DJJOhAL.Com).mp3 */; };
 		9BE40FD823C523AC00DD8323 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE40FD723C523AC00DD8323 /* AppDelegate.swift */; };
 		9BE40FDA23C523AC00DD8323 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE40FD923C523AC00DD8323 /* SceneDelegate.swift */; };
 		9BE40FDC23C523AC00DD8323 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BE40FDB23C523AC00DD8323 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		04B5172223C5415C00DCB925 /* Juti Jharrke - Hardeep Grewal  Afsana Khan (DJJOhAL.Com).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Juti Jharrke - Hardeep Grewal  Afsana Khan (DJJOhAL.Com).mp3"; sourceTree = "<group>"; };
 		9BE40FD423C523AC00DD8323 /* hello.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hello.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BE40FD723C523AC00DD8323 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BE40FD923C523AC00DD8323 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				9BE40FD923C523AC00DD8323 /* SceneDelegate.swift */,
 				9BE40FDB23C523AC00DD8323 /* ViewController.swift */,
 				9BE40FDD23C523AC00DD8323 /* Main.storyboard */,
+				04B5172223C5415C00DCB925 /* Juti Jharrke - Hardeep Grewal  Afsana Khan (DJJOhAL.Com).mp3 */,
 				9BE40FE023C523AC00DD8323 /* Assets.xcassets */,
 				9BE40FE223C523AC00DD8323 /* LaunchScreen.storyboard */,
 				9BE40FE523C523AC00DD8323 /* Info.plist */,
@@ -128,6 +131,7 @@
 				9BE40FE423C523AC00DD8323 /* LaunchScreen.storyboard in Resources */,
 				9BE40FE123C523AC00DD8323 /* Assets.xcassets in Resources */,
 				9BE40FDF23C523AC00DD8323 /* Main.storyboard in Resources */,
+				04B5172323C5415D00DCB925 /* Juti Jharrke - Hardeep Grewal  Afsana Khan (DJJOhAL.Com).mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
